@@ -1,5 +1,5 @@
 # Setup a Secure Nginx Web Server on CentOS/Redhat 7.x
-(Updated 1 Oct, 2018)
+(Updated 1 Oct, 2023)
 
 <p align="center">
     <img src="https://cdn.rawgit.com/jukbot/secure-centos/master/Centos-logo-light.svg" alt="PHP7"/>
